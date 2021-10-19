@@ -8,9 +8,6 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "remask": "0.1.0-alpha.5",
-    "simple-mask-money": "^3.0.1",
-    "vanilla-masker": "^1.2.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuesax": "^4.0.1-alpha.25",
