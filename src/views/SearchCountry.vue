@@ -5,6 +5,8 @@
         <v-text-field
             v-model="inputText"
             @input="filterCountrys()"
+            outlined
+            placeholder="Digite aqui..."
         ></v-text-field>
 
         <v-row>
